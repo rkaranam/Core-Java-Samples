@@ -10,3 +10,14 @@ Code in OOP
 - Everything is an object
 - All code blocks are "associated" with classes and objects
 
+Introduction to Lambdas
+
+- Just like we can pass an inline String value to a method, we
+  can pass an "inline" lambda expression too!
+  
+- When we are using an interface to declare a lambda expression,
+  that interface must contain only one method. That method should
+  have the same signature as the lambda expression
+  
+- To execute a lambda expression, we have to call the interface 
+  method on it, just as if it were an instance of a class
